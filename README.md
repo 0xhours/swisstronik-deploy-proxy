@@ -87,11 +87,8 @@ npm run upgrade
 - Open the deployed-adddress.ts file (location in utils folder)
 - Select SWTRProxy
 - Copy the address and paste the address into testnet dashboard(Point1)
-- Open address-with-explorer.txt file (location in utils folder)
-- Copy the address explorer and paste the address into testnet dashboard(Point2)
 - Open tx-hash.txt file (location in utils folder)
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
-- No need push to github
 
 
 ```bash
