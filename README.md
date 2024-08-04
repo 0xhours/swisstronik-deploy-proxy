@@ -93,4 +93,7 @@ npm run upgrade
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
 - No need push to github
 
+SWTRProxy = '0x9a9361f330a4A2e0Cb2891109286f8333faAaAf4'
+ProxyAdmin = '0xFe7FC81E4af5EEEdddf443EE73aE141A2BD6d88b' 
+SWTRImplementation = '0xa5c3b238c3e0620b1D1fb3beb670db98ed4E2fB4'
 
